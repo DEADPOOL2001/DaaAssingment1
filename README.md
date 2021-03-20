@@ -41,6 +41,10 @@ Run the code
 Input
 ```
 First line of input contains two space seperated integers n and m.
-where n and m are no. of rows and no. of coloumns respectively
+where n and m are no. of rows and no. of coloumns respectively.
+```
+Ouput 
+```
+Minimum possible absolute difference between any two elements belonging to the consecutive rows.
 ```
 ---
