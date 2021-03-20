@@ -28,5 +28,8 @@ Project Initialize
 ```
 #Opening Assingment folder
 cd DaaAssingment1
+
+#Compiling The code
+g++ daa.cpp -o output
 ```
 ---
