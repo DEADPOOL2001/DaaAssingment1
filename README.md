@@ -48,3 +48,19 @@ Ouput
 Minimum possible absolute difference between any two elements belonging to the consecutive rows.
 ```
 ---
+**Test case**
+
+```
+Test Case-1
+Input:
+7 8
+Output:
+512
+#--------------------------#
+Test Case-2
+Input:
+5 5
+Output:
+112
+```
+---
