@@ -85,6 +85,6 @@ int main(){
     auto duration = duration_cast<microseconds>(stop-start);
     cout<<"Minimum Possible absolute difference between two elements taken from the consecutive row:";
     cout<<ans<<"\n";
-    cout<<"total time taken ";
+    cout<<"total time taken(in ms): ";
     cout<<duration.count()<<"\n";
 }
