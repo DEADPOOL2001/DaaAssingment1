@@ -33,3 +33,14 @@ cd DaaAssingment1
 g++ daa.cpp -o output
 ```
 ---
+
+Run the code
+```
+./output
+```
+Input
+```
+First line of input contains two space seperated integers n and m.
+where n and m are no. of rows and no. of coloumns respectively
+```
+---
