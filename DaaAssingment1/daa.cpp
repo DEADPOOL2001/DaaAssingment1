@@ -1,5 +1,4 @@
-//AUTHOR - NIMISH UPADHYAY
-//FROM IIIT ALLAHABAD
+
 #include<bits/stdc++.h>
 #include <chrono>
 using namespace std;
