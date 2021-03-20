@@ -75,4 +75,17 @@ Implementation
 ```
 We will randomly generate our 2-d array of size given by the user using rand function and sort all the rows using merge sort.Then we will iterate over the rows from first row to second last row and find the upperbound of the current element using binary search in the next row and if the absolute difference comes out to be lesser then our current answer then we will store it.
 ```
+### Analysis
+
+**Time Complexity**
+```
+For all the cases : o(n*m*(log(m))
+```
+**Space Complexity**
+```
+For all the cases : o(n*m*(log(m))
+```
+where n is no. of rows and m is no. of coloumns in our matrix.
+
+
 ---
