@@ -22,7 +22,7 @@ Given a matrix of N rows and M columns, the task is to find the minimum absolute
 
 Download project
 ```
-git clone https://github.com/merazlab/daa 
+git clone https://github.com/DEADPOOL2001/DaaAssingment1.git
 ```
 Project Initialize 
 ```
