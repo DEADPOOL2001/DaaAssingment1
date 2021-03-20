@@ -26,17 +26,7 @@ git clone https://github.com/DEADPOOL2001/DaaAssingment1.git
 ```
 Project Initialize 
 ```
-cd daa
-#create assignment-1 folder
-mkdir assignment_01
-
-#go to assignment-1
-cd assignment_01
-
-#Create file
-touch readme.md
-touch main.py
-.
-.
+#Opening Assingment folder
+cd DaaAssingment1
 ```
 ---
